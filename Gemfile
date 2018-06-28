@@ -4,5 +4,5 @@ source "https://rubygems.org"
 
 gem 'shotgun'
 gem 'pry'
-gem 'sinatra' , '1.0'
+gem 'sinatra'
 gem 'heroku'
