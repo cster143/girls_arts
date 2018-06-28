@@ -1,0 +1,88 @@
+.music {
+  height: 500px;
+  width: 595px;
+}
+
+.ariana {
+  height: 430px;
+  width: 300px;
+  display: block;
+  margin: 0 auto; 
+}
+
+h1 {
+  text-align: center;
+  font-family: trebuchet ms;
+}
+
+h2 {
+  text-align: center;
+  font-family: trebuchet ms;
+
+}
+
+h3 {
+  text-align: center;
+  font-family: trebuchet ms;
+}
+
+.aesthetic {
+  height: 200px;
+  width: 1425px;
+  display: block;
+  margin: 0 auto;
+}
+
+.ag {
+  display: block;
+  margin: 0 auto;
+}
+
+.musicx {
+  text-align: left;
+}
+
+.musicz {
+  height: 300px;
+  width: 200px;
+  border-radius: 50%
+}
+
+.genre {
+  text-align: left
+}
+
+body {
+   background-image: url("http://blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg");
+}
+  
+.aesthetic2 {
+    display: block;
+    margin-left: 100;
+    margin-right: auto;
+    width: 50%;
+}
+
+.aesthetic3 {
+    display: block;
+    margin-left: auto;
+    margin-right: 100;
+    width: 40%;
+}
+  
+
+
+.aesthetic5 {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.cooltexts {
+  text-align: center;
+  font-family: fantasy;
+  border: thin dashed ;
+}
+
+

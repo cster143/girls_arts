@@ -1,0 +1,145 @@
+
+.filmpg {
+  background-color: #AFD7EB;
+  border-style: double;
+} 
+.notablefilm {
+  text-align: center;
+  font-size: xx-large;
+  font-family: avenir;
+}
+.note {
+  text-align: center;
+
+}
+.Ava {
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+  border: 7px dotted #6DC0F5;
+  }
+.avawords{
+  font-size: large;
+  margin-left: 220px;
+  margin-right: 220px; 
+  font-size: large;
+}
+
+.comedy {
+ height: 325px 
+}
+.video {
+  display: block;
+  margin: 0 auto;
+}
+
+.hwords {
+  position: relative;
+  left: 200px;
+  font-size: x-large;
+  font-family: Avenir;
+}
+.rwords {
+  position: relative;
+  left: 880px;
+  font-size: x-large;
+ font-family: Avenir;
+}
+.horror {
+  position: relative;
+  left: 200px;
+  border:7px solid #6DC0F5;
+}
+
+.romance {
+  position: relative;
+    left: 350px;
+    top: 350px;
+    border: 7px solid #6DC0F5;
+}
+.comedy {
+   position: relative;
+   left: 200px;
+   border: 7px solid #6DC0F5;
+ }
+
+.drama {
+  position: relative;
+  left:300px;
+  top: 350px;
+  border: 7px solid #6DC0F5;
+}
+.cwords{
+  position: relative;
+  left: 200px;
+  font-size: x-large;
+  font-family: Avenir;
+}
+.dwords{
+  position: relative;
+  left: 850px;
+  font-size: x-large;
+  font-family: Avenir;
+}
+.horrorword{
+  position: relative;
+  left: 250px;
+  font-size: xx-large;
+}
+
+.romanceword {
+  position: relative;
+  left: 990px;
+  font-size: xx-large
+}
+.comedyword {
+  position: relative;
+  left: 250px;
+  font-size: xx-large;
+}
+.dramaword{
+  position: relative;
+  left: 980px;
+  font-size: xx-large;
+}
+.Kim {
+height: 200px;
+position: relative;
+left: 220px;
+border-radius: 70%;
+border: 7px solid #6DC0F5;
+}
+.Emily{
+  height: 170px;
+  width: 180px;
+  position: relative;
+  top: 350px;
+  left: 340px;
+  border-radius: 50%; 
+  border: 7px solid #6DC0F5;
+}
+.Kay {
+  height: 240px;
+  position: relative;
+  left: 230px;
+  border-radius: 50%;
+  border: 7px solid #6DC0F5
+}
+
+.Meg {
+  height: 200px;
+  width: 200px;
+  top: 380px;
+  position: relative;
+  left: 280px;
+  border-radius: 50%;
+  border: 7px solid #6DC0F5
+}
+.film1 {
+  position: relative;
+  height: 100px;
+  left: 650px;
+  top: 10px  
+}
+
+

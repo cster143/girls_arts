@@ -1,0 +1,46 @@
+.title {
+  text-align: center;
+  font-family: trebuchet ms;
+}
+
+.summary{
+  text-align: center;
+  font-family: fantasy;
+}
+
+.rsctitle {
+  text-align: center;
+  font-family: fantasy;
+}
+
+.rscpar {
+  text-align: center;
+  font-family: fantasy;
+}
+
+.SCollage {
+  height: 400px;
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+
+.RCollage {
+  display: block;
+  margin: 0 auto;
+}
+
+.CCollage {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+   background-image: url("http://www.designbolts.com/wp-content/uploads/2012/12/Washi-White-Seamless-Pattern-For-Website-Background.jpg");
+}
+
+.gemstone {
+  display: block;
+  margin: 0 auto;
+}
+

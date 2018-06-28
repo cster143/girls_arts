@@ -1,0 +1,32 @@
+
+
+.resourcepg {
+  color: #FFFFFF;
+  background-color: #878280;
+}
+
+.topr {
+  text-align: center;
+  border: 3px dotted;
+  position:relative;
+  margin-left: 400px;
+  margin-right: 400px
+}
+
+.parare {
+  text-align: center;
+  font-size: large;
+}
+
+.artscat {
+  text-align: center;
+  font-size: xx-large;
+  border: 1px solid
+   
+}
+.spr {
+  text-align: center;
+  font-size: x-large;
+  color: #7EC7E8
+}
+
