@@ -8,24 +8,24 @@ class MyApp < Sinatra::Base
   erb :index
  end
 
- get '/about' do
+ get'/about' do
    erb :about
  end
- 
- get '/film' do
+
+ get'/film' do
    erb :film
  end
 
  get'/music' do
   erb :music
  end
- 
- get '/resource' do
-   erb :resouce
+
+ get'/resource' do
+  erb :resource
  end
-  
-  get'/visual' do
-  erb :visual 
+
+  get' /visual' do
+  erb :visual
  end
- 
+
 end
