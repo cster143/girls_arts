@@ -24,7 +24,7 @@ class MyApp < Sinatra::Base
   erb :resource
  end
 
-  get' /visual' do
+  get'/visual' do
   erb :visual
  end
 
